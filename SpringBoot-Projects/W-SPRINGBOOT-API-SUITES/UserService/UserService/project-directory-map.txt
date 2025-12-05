@@ -1,0 +1,328 @@
+Directory structure for C:\Users\user\Documents\bussiness\UserService\UserService 
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService 
+----------------------------------- 
+.gitattributes
+.gitignore
+.gradle
+.idea
+build
+build.gradle
+gradle
+gradlew
+gradlew.bat
+HELP.md
+map.bat
+out
+project-directory-map.txt
+settings.gradle
+src
+whatshop-USM-migration1.sql
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle 
+----------------------------------- 
+8.14.3
+buildOutputCleanup
+file-system.probe
+vcs-1
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3 
+----------------------------------- 
+checksums
+executionHistory
+expanded
+fileChanges
+fileHashes
+gc.properties
+vcsMetadata
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3\checksums 
+----------------------------------- 
+checksums.lock
+md5-checksums.bin
+sha1-checksums.bin
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3\executionHistory 
+----------------------------------- 
+executionHistory.bin
+executionHistory.lock
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3\expanded 
+----------------------------------- 
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3\fileChanges 
+----------------------------------- 
+last-build.bin
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3\fileHashes 
+----------------------------------- 
+fileHashes.bin
+fileHashes.lock
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\8.14.3\vcsMetadata 
+----------------------------------- 
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\buildOutputCleanup 
+----------------------------------- 
+buildOutputCleanup.lock
+cache.properties
+outputFiles.bin
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.gradle\vcs-1 
+----------------------------------- 
+gc.properties
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\.idea 
+----------------------------------- 
+.gitignore
+compiler.xml
+gradle.xml
+misc.xml
+workspace.xml
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build 
+----------------------------------- 
+classes
+generated
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes 
+----------------------------------- 
+java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java 
+----------------------------------- 
+main
+test
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\main 
+----------------------------------- 
+me
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\main\me 
+----------------------------------- 
+whatshop
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\main\me\whatshop 
+----------------------------------- 
+UserService
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\main\me\whatshop\UserService 
+----------------------------------- 
+UserServiceApplication.class
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\test 
+----------------------------------- 
+me
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\test\me 
+----------------------------------- 
+whatshop
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\test\me\whatshop 
+----------------------------------- 
+UserService
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\classes\java\test\me\whatshop\UserService 
+----------------------------------- 
+UserServiceApplicationTests.class
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated 
+----------------------------------- 
+.openapi-generator
+.openapi-generator-ignore
+pom.xml
+README.md
+src
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\.openapi-generator 
+----------------------------------- 
+FILES
+VERSION
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src 
+----------------------------------- 
+main
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src\main 
+----------------------------------- 
+java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src\main\java 
+----------------------------------- 
+me
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src\main\java\me 
+----------------------------------- 
+whatshop
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src\main\java\me\whatshop 
+----------------------------------- 
+api
+model
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src\main\java\me\whatshop\api 
+----------------------------------- 
+AdminApi.java
+ApiUtil.java
+AuthApi.java
+ProfilesApi.java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\build\generated\src\main\java\me\whatshop\model 
+----------------------------------- 
+AdminSession.java
+ErrorResponse.java
+ErrorResponseError.java
+LoginRequest.java
+LoginResponse.java
+ModelApiResponse.java
+PaginationInfo.java
+Profile.java
+ProfilesResponse.java
+ProfileUpdateRequest.java
+RefreshTokenRequest.java
+TokenResponse.java
+UserRegistrationRequest.java
+UserRegistrationResponse.java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\gradle 
+----------------------------------- 
+wrapper
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\gradle\wrapper 
+----------------------------------- 
+gradle-wrapper.jar
+gradle-wrapper.properties
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\out 
+----------------------------------- 
+production
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\out\production 
+----------------------------------- 
+resources
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\out\production\resources 
+----------------------------------- 
+application.properties
+openapi.yaml
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src 
+----------------------------------- 
+main
+test
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main 
+----------------------------------- 
+java
+resources
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\java 
+----------------------------------- 
+me
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\java\me 
+----------------------------------- 
+whatshop
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\java\me\whatshop 
+----------------------------------- 
+UserService
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\java\me\whatshop\UserService 
+----------------------------------- 
+entity
+repository
+UserServiceApplication.java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\java\me\whatshop\UserService\entity 
+----------------------------------- 
+EmailVerificationToken.java
+OauthProviders.java
+PasswordResetToken.java
+User.java
+UserAuditLog.java
+UserSession.java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\java\me\whatshop\UserService\repository 
+----------------------------------- 
+OauthProvidersRepository.java
+UserAuditLogRepository.java
+UserRepository.java
+UserSessionRepository.java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\main\resources 
+----------------------------------- 
+application.properties
+openapi.yaml
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\test 
+----------------------------------- 
+java
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\test\java 
+----------------------------------- 
+me
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\test\java\me 
+----------------------------------- 
+whatshop
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\test\java\me\whatshop 
+----------------------------------- 
+UserService
+ 
+ 
+Directory: C:\Users\user\Documents\bussiness\UserService\UserService\src\test\java\me\whatshop\UserService 
+----------------------------------- 
+UserServiceApplicationTests.java
+ 
